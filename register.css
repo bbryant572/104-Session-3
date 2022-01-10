@@ -1,0 +1,51 @@
+/*Global*/
+
+body {
+    background-color: #b6eea6;
+
+}
+
+.display-1 {
+    color: #aa4586;
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Ink Free', sans-serif;
+                                                
+}
+
+.display-2 {
+    text-align: center;
+    color: #d81e5b;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 2rem;
+}
+
+#petInfo {
+
+    display: inline-flex;
+    flex-direction: column;
+    width: 200px;
+    justify-content: space-between;
+}
+
+.error {
+    border-color: red;
+}
+
+.my-card{
+    width: 200px;
+    border-color: gray;
+    padding: 5px;
+    margin: 5px;
+    display:inline-flex;
+    box-shadow: 3px 3px 3px ;
+    background-color: aquamarine;
+    font-family: 'Ink Free', sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+
+.highlight {
+    background-color: yellow;
+}

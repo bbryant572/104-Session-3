@@ -1,0 +1,35 @@
+/*Global*/
+
+body {
+    background-color: aquamarine;
+
+}
+
+.display-1 {
+    color: #aa4586;
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Ink Free', sans-serif;
+                                                
+}
+
+.display-2 {
+    color: #d81e5b;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 2rem;
+}
+
+.error{
+    border-color: red;
+
+}
+
+/*body*/
+
+
+/*main*/
+
+p {
+    color: #1f363d;
+}
